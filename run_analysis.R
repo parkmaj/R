@@ -1,6 +1,10 @@
+#####################################
+# Getting and Cleaning Data Project #
+#####################################
+
 
 #set working directory
-#setwd("D:/parkmaj/_R/data_Anal")
+#setwd("...")
 
 
 #download dataset to working directory
